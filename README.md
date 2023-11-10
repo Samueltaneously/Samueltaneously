@@ -17,16 +17,16 @@ I work with a variety of technologies and tools. Some of them include:
 
 <p>
 <br>
-Languages:
+&nbsp;&nbsp;&nbsp;Languages:
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
-<br>
-Frontend:
+  
+&nbsp;&nbsp;&nbsp;Frontend:
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
-<br>
-Backend:
+
+&nbsp;&nbsp;&nbsp;Backend:
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Node.js</b></p>
-<br>  
-Design-Side:
+
+&nbsp;&nbsp;&nbsp;Design-Side:
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
 </p>
 
