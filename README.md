@@ -15,11 +15,11 @@ Here are some of my notable projects:
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
 
-- Languages: **PostgreSQL** - **JavaScript** - **CSS** - **HTML**
-- Frontend: **React** - **Redux** - **jQuery**
+- Languages: **PostgreSQL**  |  **JavaScript**  |  **CSS**  |  **HTML**
+- Frontend: **React** - **Redux**  |  **jQuery**
 - Backend: **Node.js**
-- Learning: **TypeScript** - **Next.js** - **React Native**
-- Design-Side: **Material UI** - **Figma**
+- Learning: **TypeScript**  |  **Next.js**  |  **React Native**
+- Design-Side: **Material UI**  |  **Figma**
 
 ## Let's Connect
 You can find me on [LinkedIn](https://www.linkedin.com/in/samuelhnelson/), and [My Portfolio](https://samueltaneously.github.io/). Feel free to reach out if you want to collaborate or just chat!
