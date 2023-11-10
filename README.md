@@ -19,7 +19,13 @@ I work with a variety of technologies and tools. Some of them include:
     src="https://image.pngaaa.com/311/3920311-middle.png"
     alt="CSS3 logo"
     title="CSS3"
-    height="50"
+    height="60"
+  />
+  <img
+    src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png"
+    alt="HTML5 logo"
+    title="HTML5"
+    height="60"
   />
 
   PostgreSQL | JavaScript | CSS | HTML
