@@ -9,8 +9,8 @@ I'm a software engineer seekig to ultimately build applications that can truly m
 
 ## Projects
 Here are some of my notable projects:
-- [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 - [Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker)
+- [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
