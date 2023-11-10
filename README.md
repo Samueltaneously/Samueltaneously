@@ -17,15 +17,15 @@ I work with a variety of technologies and tools. Some of them include:
 
 `Languages:`
   <p><b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
+
   
 `Frontend:`
   <p><b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
+
   
 `Backend:`
   <p><b>Node.js</b></p>
   
-`Learning:`
-  <p><b>Typescript</b>&nbsp; | &nbsp;<b>Next.js</b>&nbsp; | &nbsp;<b>React Native</b></p>
   
 `Design-Side:`
   <p><b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
