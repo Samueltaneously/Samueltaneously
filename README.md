@@ -15,8 +15,7 @@ Here are some of my notable projects:
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
 
-Languages: **PostgreSQL**, **JavaScript**, **CSS**, **HTML**
-
+- Languages: **PostgreSQL** - **JavaScript** - **CSS** - **HTML**
 - Frontend: **React**, **Redux**, **jQuery**
 - Backend: **Node.js**
 - Learning: **TypeScript**, **Next.js**, **React Native**
