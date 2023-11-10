@@ -2,7 +2,7 @@
 # Hello adventurer! 👋
 
 Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>.</p>
 
 ## About Me
 I'm a software engineer seekig to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.
@@ -16,18 +16,18 @@ Here are some of my notable projects:
 I work with a variety of technologies and tools. Some of them include:
 
 <p>
+<br>
 Languages:
-  <p><b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
-
-
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
+<br>
 Frontend:
-  <p><b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
-
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
+<br>
 Backend:
-  <p><b>Node.js</b></p>
-  
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Node.js</b></p>
+<br>  
 Design-Side:
-  <p><b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
 </p>
 
 ## Let's Connect
