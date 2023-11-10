@@ -16,7 +16,6 @@ Here are some of my notable projects:
 I work with a variety of technologies and tools. Some of them include:
 
 <p>
-<br>
 &nbsp;&nbsp;&nbsp;<i>Languages</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
   
@@ -34,7 +33,7 @@ I work with a variety of technologies and tools. Some of them include:
 You can find me on [LinkedIn](https://www.linkedin.com/in/samuelhnelson/), and [My Portfolio](https://samueltaneously.github.io/). Feel free to reach out if you want to collaborate or just chat!
 
 ## Support 🚀
-If you find any of my projects helpful or want to support my endeavors, consider fueling my chai passion [here](https://www.buymeacoffee.com/samueltaneously)!
+If you find any of my projects helpful or want to support my endeavors, consider fueling my chai passion [☕️here](https://www.buymeacoffee.com/samueltaneously)!
 
 ## GitHub Stats
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)](https://github.com/Samueltaneously)
