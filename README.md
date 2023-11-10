@@ -17,7 +17,7 @@ I work with a variety of technologies and tools. Some of them include:
 
 <p>
 <br>
-&nbsp;&nbsp;&nbsp;<u>Languages</u>:
+&nbsp;&nbsp;&nbsp;<u>Languages</u>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
   
 &nbsp;&nbsp;&nbsp;<u>Frontend</u>:
