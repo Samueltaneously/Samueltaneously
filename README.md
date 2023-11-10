@@ -2,7 +2,7 @@
 # Hello adventurer! 👋
 
 Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
-     🌱 I’m currently learning **TypeScript**, **Next.js**, and **React Native**.```
+* 🌱 I’m currently learning **TypeScript**, **Next.js**, and **React Native**.
 
 ## About Me
 ```I'm a software engineer seekig to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.``` 
