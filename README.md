@@ -16,10 +16,10 @@ Here are some of my notable projects:
 I work with a variety of technologies and tools. Some of them include:
 - Languages:
   <img
-    src="https://github.com/Samueltaneously/icon-assets/blob/main/css3/css3.png"
+    src="https://image.pngaaa.com/311/3920311-middle.png"
     alt="CSS3 logo"
     title="CSS3"
-    height="35"
+    height="50"
   />
 
   PostgreSQL | JavaScript | CSS | HTML
