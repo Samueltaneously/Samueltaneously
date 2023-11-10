@@ -15,7 +15,13 @@ Here are some of my notable projects:
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
 - Languages:
----
+  <img
+    src="https://github.com/Samueltaneously/icon-assets/blob/main/css3/css3.png"
+    alt="CSS3 logo"
+    title="CSS3"
+    height="35"
+  />
+
   PostgreSQL | JavaScript | CSS | HTML
 - **Frontend:** React, Redux, jQuery
 - **Backend:** Node.js
