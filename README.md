@@ -1,20 +1,20 @@
 
 # Hello adventurer! 👋
 
-Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
-* 🌱 I’m currently learning **TypeScript**, **Next.js**, and **React Native**.
+`Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.`
+- 🌱 I’m currently learning **TypeScript**, **Next.js**, and **React Native**.
 
 ## About Me
-```I'm a software engineer seekig to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.``` 
+``I'm a software engineer seekig to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.``
 
 ## Projects
-Here are some of my notable projects:
+```Here are some of my notable projects:```
 - [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 - [Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker)
 
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
-- **Languages:** PostgreSQL, JavaScript, CSS, HTML
+- *Languages:* PostgreSQL, JavaScript, CSS, HTML
 - **Frontend:** React, Redux, jQuery
 - **Backend:** Node.js
 - **Learning:** TypeScript, Next.js, React Native
