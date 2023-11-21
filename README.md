@@ -21,25 +21,26 @@ I work with a variety of technologies and tools. Some of them include:
 
 <p>
 &nbsp;
-&nbsp:
+&nbsp;
+&nbsp;
 <i>Languages</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
 
 <p>______________________</p>
-&nbsp;&nbsp;<i>Frontend</i>
+<i>Frontend</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
 <p>______________________</p>
 
-&nbsp;&nbsp;<i>Backend</i>
+<i>Backend</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Node.js</b></p>
 
 <p>______________________</p>
-&nbsp;&nbsp;<i>Design-Side</i>
+<i>Design-Side</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
+&nbsp;
+&nbsp;
+&nbsp;
 </p>
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## Let's Connect
 You can find me on [LinkedIn](https://www.linkedin.com/in/samuelhnelson/), and [My Portfolio](https://samueltaneously.github.io/). Feel free to reach out if you want to collaborate or just chat!
