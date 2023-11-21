@@ -37,8 +37,25 @@ If you find any of my projects helpful or want to support my endeavors, consider
 
 ## GitHub Stats
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/dynamicColorGithubStats.svg" alt="Samuel's GitHub stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously" alt="Samuel's GitHub stats">
 </p>
+
+<!-- Set background color to white in light mode -->
+<style>
+   body {
+      background-color: white;
+   }
+</style>
+
+<!-- Set background color to black in dark mode -->
+<style>
+   @media (prefers-color-scheme: dark) {
+      body {
+         background-color: black;
+      }
+   }
+</style>
+
 
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)](https://github.com/Samueltaneously)-->
 
