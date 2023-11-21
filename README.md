@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/Spaceman%20Galaxy.gif">
 <div align="center">
 
 # Hello adventurer! 👋
