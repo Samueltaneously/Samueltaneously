@@ -36,10 +36,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/samuelhnelson/), and [
 If you find any of my projects helpful or want to support my endeavors, consider fueling my chai passion [☕️here](https://www.buymeacoffee.com/samueltaneously)!
 
 ## GitHub Stats
-<div align="center" style="background-color: #2c3e50; padding: 20px;">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
-</div>
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)](https://github.com/Samueltaneously)
 
 Thanks for stopping by!
