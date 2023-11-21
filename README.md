@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hello adventurer! 👋
 
 Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
@@ -9,8 +10,8 @@ I'm a software engineer seekig to ultimately build applications that can truly m
 
 ## Projects
 Here are some of my notable projects:
-- [Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker)
-- [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
+  - [Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker)
+  - [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
@@ -44,4 +45,5 @@ If you find any of my projects helpful or want to support my endeavors, consider
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)-->
 
 Thanks for stopping by!
+
 </div>
