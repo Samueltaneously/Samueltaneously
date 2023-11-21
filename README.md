@@ -37,7 +37,6 @@ If you find any of my projects helpful or want to support my endeavors, consider
 
 ## GitHub Stats
 <div align="center" style="background-color: #2c3e50; padding: 20px;">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image" style="max-width: 100%;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
 </div>
