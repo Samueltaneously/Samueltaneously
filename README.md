@@ -1,4 +1,4 @@
-
+<div align="center">
 # Hello adventurer! 👋
 
 Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
@@ -44,3 +44,4 @@ If you find any of my projects helpful or want to support my endeavors, consider
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)-->
 
 Thanks for stopping by!
+</div>
