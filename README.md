@@ -19,9 +19,10 @@ Here are some of my notable projects:
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
 
-<p>______________________</p>
 <p>
-&nbsp;&nbsp;<i>Languages</i>
+&nbsp;
+&nbsp:
+<i>Languages</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
 
 <p>______________________</p>
@@ -36,7 +37,6 @@ I work with a variety of technologies and tools. Some of them include:
 &nbsp;&nbsp;<i>Design-Side</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
 </p>
-<p>______________________</p>
 &nbsp;
 &nbsp;
 &nbsp;
