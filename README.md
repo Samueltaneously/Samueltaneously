@@ -25,19 +25,19 @@ I work with a variety of technologies and tools. Some of them include:
 <p>
   
 <i>Languages</i>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
+  <p><b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
 
 <p>______________________</p>
 <i>Frontend</i>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
+  <p><b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
 <p>______________________</p>
 
 <i>Backend</i>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Node.js</b></p>
+  <p><b>Node.js</b></p>
 
 <p>______________________</p>
 <i>Design-Side</i>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
+  <p><b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
   
 </p>
 &nbsp;
