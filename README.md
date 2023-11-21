@@ -7,7 +7,10 @@ Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>.</p>
 
 ## About Me
-> I'm a software engineer seeking to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics. <
+> I'm a software engineer seeking to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.
+
+<p> I'm a software engineer seeking to ultimately build applications that can truly make a difference, and ideally bring people together.</p>
+<p> I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.</p>
 
 ## Projects
 Here are some of my notable projects:
