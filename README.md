@@ -17,8 +17,6 @@ Here are some of my notable projects:
 [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 
 ## Technologies
-&nbsp;
-
 I work with a variety of technologies and tools. Some of them include:
 
 &nbsp;
