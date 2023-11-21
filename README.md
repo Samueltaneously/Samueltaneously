@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>.</p>
 
 ## About Me
-<p style="padding: "30px";">
+<p style="padding: "100px";">
 I'm a software engineer seeking to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.
 </p>
 
@@ -31,12 +31,11 @@ I work with a variety of technologies and tools. Some of them include:
 
 &nbsp;&nbsp;&nbsp;<i>Backend</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Node.js</b></p>
-  <hr>
 
 &nbsp;&nbsp;&nbsp;<i>Design-Side</i>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
 </p>
-<hr style="width: "20%"">
+<hr style="width: 20">
 
 ## Let's Connect
 You can find me on [LinkedIn](https://www.linkedin.com/in/samuelhnelson/), and [My Portfolio](https://samueltaneously.github.io/). Feel free to reach out if you want to collaborate or just chat!
