@@ -17,9 +17,10 @@ Here are some of my notable projects:
 [SomniScript](https://github.com/Samueltaneously/prime-solo-project)
 
 ## Technologies
+&nbsp;
+
 I work with a variety of technologies and tools. Some of them include:
 
-&nbsp;
 &nbsp;
 &nbsp;
 <p>
@@ -43,7 +44,6 @@ I work with a variety of technologies and tools. Some of them include:
   <p><b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
   
 </p>
-&nbsp;
 &nbsp;
 &nbsp;
 
