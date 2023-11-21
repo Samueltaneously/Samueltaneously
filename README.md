@@ -37,14 +37,8 @@ If you find any of my projects helpful or want to support my endeavors, consider
 
 ## GitHub Stats
 <p align="center" style="background-color: #353535;">
-   <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously" alt="Samuel's GitHub stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&hide=prs,issues,contribs&theme=dark" alt="Samuel's GitHub stats">
 </p>
-
-## GitHub Stats
-<p align="center">
-   <img src="https://img.shields.io/badge/dynamic/json?color=lightgrey&label=GitHub%20Stats&query=%24.data.totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2F%3Fuser%3DSamueltaneously" alt="Samuel's GitHub stats">
-</p>
-
 
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)](https://github.com/Samueltaneously)-->
 
