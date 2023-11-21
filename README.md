@@ -37,7 +37,7 @@ If you find any of my projects helpful or want to support my endeavors, consider
 
 ## GitHub Stats
 <p align="center">
-   <img src="https://raw.githubusercontent.com//Samueltaneously/Samueltaneously/blob/main/dynamicColorGithubStats.svg" alt="Samuel's GitHub stats">
+   <img src="https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/dynamicColorGithubStats.svg" alt="Samuel's GitHub stats">
 </p>
 
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)](https://github.com/Samueltaneously)-->
