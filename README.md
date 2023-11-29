@@ -54,7 +54,8 @@ If you find any of my projects helpful or want to support my endeavors, consider
 ## GitHub Stats
 <p align="center" style="background-color: #353535;">
    <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&theme=dark" alt="Samuel's GitHub stats">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samueltaneously.Samueltaneously">
+   &nbsp;
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Samueltaneously.Samueltaneously">
 </p>
 
 <!--&hide=prs,issues,contribs-->
