@@ -56,13 +56,11 @@ If you find any of my projects helpful or want to support my endeavors, consider
    <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&theme=dark" alt="Samuel's GitHub stats">
 </p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samueltaneously.samueltaneously)
-
-
 <!--&hide=prs,issues,contribs-->
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)-->
-
 
 Thanks for stopping by!
 
 </div>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samueltaneously.samueltaneously)
