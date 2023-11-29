@@ -55,9 +55,12 @@ If you find any of my projects helpful or want to support my endeavors, consider
 <p align="center" style="background-color: #353535;">
    <img src="https://github-readme-stats.vercel.app/api?username=Samueltaneously&show_icons=true&theme=dark" alt="Samuel's GitHub stats">
 </p>
-<!--&hide=prs,issues,contribs-->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dontyellwillcry.dontyellwillcry)
 
+
+<!--&hide=prs,issues,contribs-->
 <!--[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueltaneously)-->
+
 
 Thanks for stopping by!
 
