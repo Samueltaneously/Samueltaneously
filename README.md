@@ -63,4 +63,4 @@ Thanks for stopping by!
 
 </div>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samueltaneously.samueltaneously)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Samueltaneously.Samueltaneously)
