@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
 ## Projects
 Here are some of my notable projects:
 
-[Mood Music  -  React Native | TypeScript | MongoDB](https://github.com/Samueltaneously/mood-music)
+[Mood Music ](https://github.com/Samueltaneously/mood-music) React Native | TypeScript | MongoDB
 
-[Dodgeball Stat Tracker  -  React | Javascript | PostgreSQL](https://github.com/willbuck/dodgeball-stat-tracker)
+[Dodgeball Stat Tracker ](https://github.com/willbuck/dodgeball-stat-tracker) React | Javascript | PostgreSQL
 
-[SomniScript  -  React | Javascript | Open AI API | PostgreSQL](https://github.com/Samueltaneously/prime-solo-project)
+[SomniScript ](https://github.com/Samueltaneously/prime-solo-project) React | Javascript | Open AI API | PostgreSQL
 
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
