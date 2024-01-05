@@ -40,7 +40,7 @@ I work with a variety of technologies and tools. Some of them include:
 
 <p>______________________</p>
 
-<i>Design-Side</i>
+<i>Design and UI</i>
   <p><b>Material UI</b>&nbsp; | &nbsp;<b>Figma</b></p>
   
 </p>
