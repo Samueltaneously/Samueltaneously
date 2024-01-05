@@ -26,17 +26,17 @@ I work with a variety of technologies and tools. Some of them include:
 <p>
   
 <i>Languages</i>
-  <p><b>PostgreSQL</b>&nbsp; | &nbsp;<b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
+  <p><b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
 
 <p>______________________</p>
 
 <i>Frontend</i>
-  <p><b>React</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
+  <p><b>React</b>&nbsp; | &nbsp;<b>React Native</b>&nbsp; | &nbsp;<b>Redux.js</b>&nbsp; | &nbsp;<b>jQuery</b></p>
   
 <p>______________________</p>
 
 <i>Backend</i>
-  <p><b>Node.js</b></p>
+  <p><b>PostgreSQL</b>&nbsp; | &nbsp;<b>MongoDB</b>&nbsp; | &nbsp;<b>Node.js</b></p>
 
 <p>______________________</p>
 
