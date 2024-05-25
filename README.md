@@ -4,7 +4,7 @@
 # Hello adventurer! 👋
 
 Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <b>C</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>React Native</b>. And I'm working my way through the illustrious CS50!</p>
 
 ## About Me
 > I'm a software engineer seeking to ultimately build applications that can truly make a difference, and ideally bring people together. I've always been a tech and solutions oriented person, and I have aspirations to take on entreprenuerial endeavors, explore the world of AI and automation, and maybe even robotics.
@@ -12,11 +12,13 @@ Welcome to my GitHub profile! I'm Samuel, a full-stack software engineer.
 ## Projects
 Here are some of my notable projects:
 
+[<i>Sunwatcher</i> Promotional Site](https://sunwatchermusical.com/) - Next.js | TypeScript | Tailwind CSS
+
 [Mood Music](https://github.com/Samueltaneously/mood-music) - React Native | TypeScript | MongoDB
 
-[Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker) - React | Javascript | PostgreSQL
+[Dodgeball Stat Tracker](https://github.com/willbuck/dodgeball-stat-tracker) - React | JavaScript | PostgreSQL
 
-[SomniScript](https://github.com/Samueltaneously/prime-solo-project) - React | Javascript | Open AI API | PostgreSQL
+[SomniScript](https://github.com/Samueltaneously/prime-solo-project) - React | JavaScript | Open AI API | PostgreSQL
 
 ## Technologies
 I work with a variety of technologies and tools. Some of them include:
@@ -26,7 +28,7 @@ I work with a variety of technologies and tools. Some of them include:
 <p>
   
 <i>Languages</i>
-  <p><b>Javascript</b>&nbsp; | &nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
+  <p><b>JavaScript</b>&nbsp; | &nbsp;<b>TypeScript</b>&nbsp; |&nbsp;<b>HTML</b>&nbsp; | &nbsp;<b>CSS</b></p>
 
 <p>______________________</p>
 
