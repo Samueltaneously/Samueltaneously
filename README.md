@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/software-engineer-banner-2026.svg"
+    alt="Samuel Nelson — Full-Stack Software Engineer"
+    width="100%"
+  />
+</p>
+
 # Samuel Nelson
 
 ### Full-Stack Software Engineer
